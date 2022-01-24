@@ -1,0 +1,4 @@
+ID	Username		EncryptedUsername		Generation	EncryptedParentName		RecruitRevenue(RM)	SalesRevenue(RM)	CompanyRecruitRevenueInThisNode	CompanySalesRevenueInThisNode	GoodsSold
+000001	qwertyuiop		AAEgzp[h9Vrgph\g		1		99[]{56fH5[]pNLV		31.0			0.0			50.0				0.0				0
+000002	qwertyasdfgh		shq^oR\]9Vrgph\g		2		AAEgzp[h9Vrgph\g		25.0			0.0			25.0				0.0				0
+000003	qwertyasdzxc		nlrioR\]9Vrgph\g		3		shq^oR\]9Vrgph\g		0.0			0.0			19.0				0.0				0
